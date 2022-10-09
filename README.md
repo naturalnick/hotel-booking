@@ -1,6 +1,6 @@
 <h1>Hotel Booking Website</h1>
 
-Simple website made from HTML and CSS with form.
+Simple hotel booking website made from HTML and CSS.
 
 See it in action <a href="https://naturalnick.github.io/hotel-booking/">here</a>.
 
