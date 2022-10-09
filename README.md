@@ -9,4 +9,4 @@ See it in action <a href="https://naturalnick.github.io/hotel-booking/">here</a>
 This is a basic website featuring an image background, and an html form with different inputs.
 </p>
 
-<h3>Author: Nick Schaefer</h3>
+<h3>Developer: Nick Schaefer</h3>
